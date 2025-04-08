@@ -41,11 +41,19 @@ nebutt.place(x=72,y=490)
 ebutt.place(x=72,y=516)
 sebutt.place(x=72, y=542)
 sbutt.place(x=41,y=542)
+swbutt.place(x=10,y=542)
+wbutt.place(x=10, y=516)
 logolbl.place(x=275,y=510)
 minilbl.place(x=540,y=65)
 minimaplbl.place(x=520,y=90)
 mapbutt.place(x=520,y=190)
-invbutt.place()
-
+invbutt.place(x=520,y=231)
+pokebutt.place(x=520,y=272)
+rostbutt.place(x=520,y=313)
+jourbutt.place(x=520,y=354)
+helpbutt.place(x=520,y=395)
+shopbutt.place(x=520,y=436)
 
 window.mainloop()
+
+#done
